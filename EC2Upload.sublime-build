@@ -1,0 +1,3 @@
+{
+            "cmd": ["$packages\\EC2Upload\\upload.bat", "$file_name", "$file", "$project_base_name"]
+}

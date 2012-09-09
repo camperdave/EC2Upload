@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"EC",
+				"EC2URL"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"new",
+				"new_player"
+			],
+			[
+				"pl",
+				"player_data"
+			],
+			[
+				"PL",
+				"PLAYER_NAME"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"Di",
+				"Pane_display"
+			],
+			[
+				"p",
+				"player_name"
+			],
+			[
+				"pla",
+				"player_score"
+			],
+			[
+				"Pl",
+				"Player_display"
+			],
+			[
+				"fu",
+				"function	function"
+			],
+			[
+				"PlayerS",
+				"PlayerScore"
+			],
+			[
+				"PlayerSco",
+				"PlayerScore_init"
+			],
+			[
+				"playe",
+				"players"
+			],
+			[
+				"play",
+				"player_data"
+			],
+			[
+				"Pane",
+				"Pane_init"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "EC2Upload.sublime-build",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "upload.bat",
+			"settings":
+			{
+				"buffer_size": 650,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Upload to EC2",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/C++/C++.sublime-build",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/User/SideBarGit.sublime-settings",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/Users/Dave/FirefallAddons/KillCompare/KillCompare.sublime-workspace",
+		"/C/Users/Dave/FirefallAddons/KillCompare/KillCompare.sublime-project",
+		"/C/Users/Dave/AppData/Local/red 5 studios/Firefall/ui_savedsettings/omnitrack.json",
+		"/C/Games/Red 5 Studios/Firefall/system/gui/components/MainUI/HUD/Progression/Progression.lua",
+		"/C/Games/Red 5 Studios/Firefall/system/gui/components/MainUI/HUD/Progression/Progression.xml",
+		"/C/Games/Red 5 Studios/Firefall/system/gui/components/MainUI/Addons/KillCompare/KillCompare.lua",
+		"/C/Users/Dave/FirefallAddons/omnitrack-0.7.0-beta/gui/components/MainUI/Addons/OmniTrack/OmniTrack.xml",
+		"/C/Users/Dave/FirefallAddons/omnitrack-0.7.0-beta/gui/components/MainUI/Addons/OmniTrack/OmniTrack.lua",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Dave/Desktop/test2 stuff",
+		"/C/Users/Dave/AppData/Roaming/.minecraft/mods/ComputerCraft/lua/rom/programs/edit",
+		"/C/Users/Dave/AppData/Roaming/.minecraft/mods/ComputerCraft/lua/bios.lua",
+		"/C/Console2/StartVSConsole.bat",
+		"/C/Console2/StartFullConsole.bat",
+		"/C/Users/Dave/Documents/delver's kiln.csv",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/Data/2V6211AD.57K/86EHC9RD.L9B/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/Data/CardDataSource/client_F10_DO.xml",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/Data/2V6211AD.57K/86EHC9RD.L9B/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/Data/CardDataSource/MTGOV3CardData.xml",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/Data/2V6211AD.57K/86EHC9RD.L9B/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/Data/CardDataSource/MTGOV3CardData.dtd",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/Data/2V6211AD.57K/86EHC9RD.L9B/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/Data/CardDataSource/client_NPH.xml",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/Data/2V6211AD.57K/86EHC9RD.L9B/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/Data/CardDataSource/client_NPH_DO.xml",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/Data/2V6211AD.57K/86EHC9RD.L9B/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/Data/CardDataSource/CARDNAME_STRING.xml",
+		"/C/MinecraftForge/README-fml.txt",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/LYAPC85R.Q64/NMT4HGP1.NHD/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/MTGO.exe.config",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/Data/2V6211AD.57K/86EHC9RD.L9B/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/Data/AppFiles/311FCE086937105D7874912C637B06D4/mtgo_game_history",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/Data/2V6211AD.57K/86EHC9RD.L9B/mtgo..tion_1ad988e60282d0d8_0003.0004_3e45a63f9f6b87da/Data/AppFiles/311FCE086937105D7874912C637B06D4/Match_8cf7ef69-f814-49eb-b5eb-e5c89d36849f.dat",
+		"/C/Users/Dave/AppData/Local/Apps/2.0/LYAPC85R.Q64/NMT4HGP1.NHD/mtgo.exe_1ad988e60282d0d8_0003.0004_none_2a8f9c93b39400cf/CardStyle.xml",
+		"/C/Console2/StartConsole.bat",
+		"/C/Console2/StartPowershell.bat",
+		"/F/GitHub/TesseractTrainer/lib/tesseract_training.py",
+		"/F/BIGROMS/GC/PACK 17/Kirby_Air_Ride_PROPER_USA_NGC-STINKYCUBE/sc-kar.nfo",
+		"/F/GitHub/TesseractTrainer/lib/multipage_tif.py",
+		"/F/GitHub/TesseractTrainer/example.py",
+		"/F/GitHub/TesseractTrainer/Exocet1 0 0 0 0 0",
+		"/F/GitHub/tesseract-auto-training/unicharset.py",
+		"/F/GitHub/py2cairo/INSTALL",
+		"/F/GitHub/tesseract-auto-training/train.py",
+		"/C/Users/Dave/Downloads/TesseractIndic-Trainer-GUI-0.1.3.tar/TesseractIndic-Trainer-GUI-0.1.3/README",
+		"/F/GitHub/tesseract-auto-training/generate.py",
+		"/C/Users/Dave/Downloads/pango-1.30.0/pango-1.30.0/INSTALL",
+		"/C/Users/Dave/Downloads/pango-1.30.0/pango-1.30.0/README",
+		"/C/Python27/Lib/site-packages/cairo/__init__.py",
+		"/F/Projects/ItemMon/test.py",
+		"/C/Python27/Lib/distutils/cygwinccompiler.py",
+		"/C/Users/Dave/build/pycairo/INSTALL",
+		"/C/Users/Dave/Downloads/py-reg.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Wide_14B",
+			"function",
+			"save",
+			"trainedd",
+			"font_properties",
+			"nobatch",
+			".exe",
+			"unichar",
+			"tesseract",
+			"share",
+			"unicharset",
+			"unich",
+			"-mno"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "EC2Upload.sublime-build",
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "upload.bat",
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 99.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
