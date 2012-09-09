@@ -4,6 +4,7 @@ REM DO NOT MODIFY ABOVE THIS LINE!!!!
 SET UNAME="dave"
 SET EC2URL="ec2-184-72-138-38.compute-1.amazonaws.com"
 SET KEYPATH="C:\Users\Dave\Keys\EC2\Jet.ppk"
+SET BASEFOLDER="/var/www/html"
 
 REM DO NOT MODIFY BELOW THIS LINE!!!!!!
 
@@ -21,5 +22,5 @@ IF %3%=="" (
 	) ELSE (
 		plink.exe -ssh -i "%KEYPATH%" "%UNAME%@%EC2URL%" "mkdir -p /var/www/html/%3/"
 
-		pscp.exe -i "%KEYPATH%" "%2" "%UNAME%@%EC2URL%:/var/www/html/%3/%1"
+		pscp.exe -i "%KEYPATH%" "%2" "%UNAME%@%EC2URL%:%BASEFOLDER%/%3/%1"
 	)
